@@ -38,7 +38,7 @@ Designed so you can kick off a project, close the laptop, and come back later to
 From inside Claude Code, two steps:
 
 ```
-/plugin marketplace add mostafaghaith/incubator
+/plugin marketplace add mostafa-ghaith/incubator
 /plugin install incubator@incubator
 ```
 
