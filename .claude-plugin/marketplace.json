@@ -1,0 +1,13 @@
+{
+  "name": "incubator",
+  "owner": {
+    "name": "mostafaghaith"
+  },
+  "plugins": [
+    {
+      "name": "incubator",
+      "source": "./",
+      "description": "An autonomous product team for Claude Code — PM, CTO, Designer, Frontend, iOS, Backend, DevOps, QA and an Orchestrator that routes work sequentially so you can kick off a project, close the laptop, and come back to real progress."
+    }
+  ]
+}

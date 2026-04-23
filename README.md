@@ -35,18 +35,22 @@ Designed so you can kick off a project, close the laptop, and come back later to
 
 ## Install
 
-From inside Claude Code:
+From inside Claude Code, two steps:
+
 ```
-/plugin install github:mostafaghaith/incubator
+/plugin marketplace add mostafaghaith/incubator
+/plugin install incubator@incubator
 ```
 
-Or manually, in `~/.claude/plugins.json`:
-```json
-{
-  "plugins": [
-    { "source": "github:mostafaghaith/incubator" }
-  ]
-}
+Then reload:
+```
+/reload-plugins
+```
+
+To update later:
+```
+/plugin marketplace update incubator
+/plugin update incubator@incubator
 ```
 
 ## Usage
