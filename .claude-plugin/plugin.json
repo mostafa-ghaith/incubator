@@ -1,0 +1,19 @@
+{
+  "name": "incubator",
+  "version": "0.1.0",
+  "description": "An autonomous product-building team for Claude Code: PM, Market Researcher, Strategist, Designer, CTO, Frontend, iOS, Backend, DevOps, QA — orchestrated sequentially so one Owner can run overnight without blocking.",
+  "author": {
+    "name": "mostafaghaith"
+  },
+  "homepage": "https://github.com/mostafaghaith/incubator",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "agents",
+    "workflow",
+    "orchestration",
+    "product-team",
+    "autonomous"
+  ]
+}
